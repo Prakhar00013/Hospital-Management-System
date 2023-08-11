@@ -1,4 +1,3 @@
-![Screenshot_8](https://github.com/Prakhar00013/Hospital-Management-System/assets/89144627/15a3bce4-c968-4429-9cba-f17c3b1ca54c)
 # Hospital-Management-System
 
 Technologies Used: 
