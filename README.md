@@ -8,10 +8,7 @@
 
 # Description:
 
-This is a desktop GUI software, which can manage information of Doctors, Patients and their Disgnosis.
-The authorized user can access the software with a username and password.
-The database used in Derby Oracle database which is inbuilt in NetBeans IDE.
-The database schema is also defined well and you can have a look at the schema, tables, columns and primary keys.
+This is a desktop GUI software, which can manage information of Doctors, Patients and their Disgnosis. The authorized user can access the software with a username and password. The database used is Derby Oracle database which is inbuilt in NetBeans IDE. The database schema is also defined well and you can have a look at the schema, tables, columns and primary keys.
 
 To run the software directly: open the dist folder and run the jar file: Hospital_Management_System.jar
 
@@ -52,12 +49,6 @@ To run the software directly: open the dist folder and run the jar file: Hospita
 
 ![Screenshot_11](https://github.com/Prakhar00013/Hospital-Management-System/assets/89144627/8c10f03e-3160-49da-ba73-0b72af448946)
 
+# Authors:
 
-
-
-
-
-
-
-
-
+Prakhar Kumar Srivastava
