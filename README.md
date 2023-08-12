@@ -14,7 +14,7 @@ To run the software directly: open the dist folder and run the jar file: Hospita
 
 # Steps to run:
 
-1. Install the NetBeans IDE and import the Hospital Management System folden in your IDE.
+1. Install the NetBeans IDE and import the Hospital Management System folder in your IDE.
 2. Setup the derby database in the services section.
 3. Create a schema (name: HospitalDB)
 4. Create the required tables and columns.
