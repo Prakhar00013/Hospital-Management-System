@@ -8,7 +8,7 @@
 
 # Description:
 
-This is a desktop GUI software, which can manage information of Doctors, Patients and their Disgnosis. The authorized user can access the software with a username and password. The database used is Derby Oracle database which is inbuilt in NetBeans IDE. The database schema is also defined well and you can have a look at the schema, tables, columns and primary keys.
+This is a desktop GUI software, which can manage (add, update, delete) information of Doctors, Patients and their Disgnosis. The authorized user can access the software with a username and password. The database used is Derby Oracle database which is inbuilt in NetBeans IDE. The database schema is also defined well and you can have a look at the schema, tables, columns and primary keys.
 
 To run the software directly: open the dist folder and run the jar file: Hospital_Management_System.jar
 
